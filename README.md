@@ -1,5 +1,5 @@
 About Me 👋
-Hi there! I'm [Your Name], a passionate Computer Science junior with a strong foundation in Python and C++, and a keen interest in Data Structures, Algorithms, and Software Engineering. I'm currently exploring the world of Cloud Programming and building my expertise in IT solutions.
+Hi there! I'm Angel Gomez, a passionate Computer Science junior with a strong foundation in Python and C++, and a keen interest in Data Structures, Algorithms, and Software Engineering. I'm currently exploring the world of Cloud Programming and building my expertise in IT solutions.
 
 🌟 What I’m Working On:
 
